@@ -1,0 +1,62 @@
+.easy-block {
+    box-shadow: none;
+    height: 100px;
+    width: 100px;
+    border-radius: 0px;
+    border-color: darkgreen;
+   
+} 
+.hard-block {
+    box-shadow: none;
+    height: 40px;
+    width: 40px;
+    border-radius: 0px;
+    border-color: darkgreen;
+   
+} 
+.medium-block {
+    box-shadow: none;
+    height: 50px;
+    width: 50px;
+    border-radius: 0px;
+    border-color: darkgreen;
+   
+} 
+.medium-block:hover {
+    background-color: darkgreen;
+}
+.hard-block:hover {
+    background-color : darkgreen;
+}
+.no-block {
+    display: none;
+}
+
+
+.easy-block:hover {
+    background-color: darkgreen;
+}
+.easy-block:active 
+{ border-style: outset;}
+.game-screen {
+    overflow: hidden;
+
+        background-color: cadetblue;
+        position : absolute;
+        top: 70px;
+        right:0px;
+        bottom:0px;
+        left:0px;
+}
+.score {
+    position: fixed;
+    left : 650px;
+    align-self: center;
+} 
+.easy-mode {
+    position : absolute;
+    top: 0px;
+    right:0px;
+    bottom:0px;
+    left:0px;
+}
