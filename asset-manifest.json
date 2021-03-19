@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AreYouFast/static/css/main.9884bf0e.chunk.css",
+    "main.js": "/AreYouFast/static/js/main.f5607693.chunk.js",
+    "main.js.map": "/AreYouFast/static/js/main.f5607693.chunk.js.map",
+    "runtime-main.js": "/AreYouFast/static/js/runtime-main.067979ae.js",
+    "runtime-main.js.map": "/AreYouFast/static/js/runtime-main.067979ae.js.map",
+    "static/js/2.0fcdeb1c.chunk.js": "/AreYouFast/static/js/2.0fcdeb1c.chunk.js",
+    "static/js/2.0fcdeb1c.chunk.js.map": "/AreYouFast/static/js/2.0fcdeb1c.chunk.js.map",
+    "index.html": "/AreYouFast/index.html",
+    "static/css/main.9884bf0e.chunk.css.map": "/AreYouFast/static/css/main.9884bf0e.chunk.css.map",
+    "static/js/2.0fcdeb1c.chunk.js.LICENSE.txt": "/AreYouFast/static/js/2.0fcdeb1c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.067979ae.js",
+    "static/js/2.0fcdeb1c.chunk.js",
+    "static/css/main.9884bf0e.chunk.css",
+    "static/js/main.f5607693.chunk.js"
+  ]
+}
