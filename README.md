@@ -1,4 +1,4 @@
-# Getting Started with Create React App
+# Are you fast - a basic aiming practice game.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 I have made use of simple hooks and context API to create an aiming practice game. Future builds will include a leaderboard and login feature.
